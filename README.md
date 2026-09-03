@@ -1,3 +1,10 @@
-Hellooooo, this github repository is meant to serve as a place for me to learn and track my progress while learning python. It includes all the notes that I have taken, guided projects, and even a couple unguided projects which I dont mind sharing.
+Welcome to my github repository. This repo is meant to serve a way for me to store the learning and extra activities I do regarding the Python programming language.😁
 
-Thank you!!! ⭐
+[Python Notes](PythonLearning/Python%20Notes)
+
+[Data Structures and Algorithms](PythonLearning/Data%20Structures%20and%20Algorithms)
+
+
+[Guided Projects](PythonLearning/Guided%20Projects)
+
+[Unguided Projects (personal)](PythonLearning/Unguided%20Projects%20%28personal%29)
